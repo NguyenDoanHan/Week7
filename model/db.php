@@ -11,5 +11,3 @@ self::$connection->set_charset(DB_CHARSET);
 return self::$connection;
 }
 }
-echo "commect sucessfuly";
-?>
