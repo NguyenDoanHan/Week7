@@ -1,6 +1,6 @@
 <?php
 /** The name of the database*/
-define( 'DB_NAME', 'newss' );
+define( 'DB_NAME', 'news' );
 /** MySQL database username */
 define( 'DB_USER', 'root' );
 /** MySQL database password */
